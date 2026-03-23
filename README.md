@@ -1,14 +1,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=200\&section=header\&text=Shivam%20Kumar\&fontSize=40\&fontColor=ffffff)
 
-# Hi, I'm Shivam Kumar 👋
+# 👋 Hi, I'm Shivam Kumar
 
-### 🚀 Full Stack Developer | React | Node.js | MongoDB
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+CRM+Systems)](https://git.io/typing-svg)
+
+---
+
+## 🚀 About Me
 
 * 🔭 Currently working on **Properties Professor – Real Estate CRM**
 * 👨‍💻 Built **InspectX – Inspection Management System**
 * 🌱 Exploring scalable backend architecture & real-time dashboards
 * 💬 Ask me about **React, Node.js, MongoDB**
-* 📫 Reach me: **[shivamkumar07514@gmail.com](mailto:shivamkumar07514@gmail.com)**
+* 📫 Email: **[shivamkumar07514@gmail.com](mailto:shivamkumar07514@gmail.com)**
 
 ---
 
@@ -28,17 +32,9 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 InspectX – Inspection Management System
+[![InspectX](https://github-readme-stats.vercel.app/api/pin/?username=cybershivaa\&repo=InspectX-App\&theme=radical)](https://github.com/cybershivaa/InspectX-App)
 
-* Role-based dashboards (Admin, Client, Inspector)
-* Offline workflow & status tracking
-* React + Tailwind UI
-
-### 🔹 Properties Professor – Real Estate CRM
-
-* Lead management & inventory dashboard
-* Role-based authentication
-* Node.js + MongoDB backend
+[![PropertiesProfessor](https://github-readme-stats.vercel.app/api/pin/?username=cybershivaa\&repo=PropertiesProfessor\&theme=radical)](https://github.com/techpropertiesprofessor-star/PropertiesProfessor)
 
 ---
 
@@ -64,12 +60,16 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cybershivaa\&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=cybershivaa\&theme=radical\&no-frame=true\&row=1)
 
 ---
 
-## 💻 Most Used Languages
+## 📈 Contribution Graph
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybershivaa\&layout=compact\&theme=radical)
+![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cybershivaa\&theme=react-dark)
+
+---
+
+⭐ From [Shivam Kumar](https://github.com/cybershivaa)
