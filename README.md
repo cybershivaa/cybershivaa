@@ -2,7 +2,7 @@
 
 # Hi, I'm Shivam Kumar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7c+PostgreSQL;Building+Real+World+CRM+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Building+Real+World+CRM+Systems)](https://git.io/typing-svg)
 
 ### 🚀 Full Stack Developer | React | Node.js | MongoDB
 
@@ -33,14 +33,22 @@
 ### 🔹 InspectX – Inspection Management System
 
 * Role-based dashboards (Admin, Client, Inspector)
-* Offline workflow & status tracking
-* React + Tailwind UI
+* Online workflow & status tracking
+* React + Tailwind UI + PostgreSQL backend
 
 ### 🔹 Properties Professor – Real Estate CRM
 
 * Lead management & inventory dashboard
 * Role-based authentication
 * Node.js + MongoDB backend
+
+### 🔹 Properties Professor – Real Estate Website
+
+* Public-facing property listing platform
+* Search, filtering, and lead generation features
+* Responsive UI for buyers and brokers
+
+[![Live Website](https://img.shields.io/badge/Live%20Website-propertiesprofessor.com-0A66C2?style=for-the-badge\&logo=vercel\&logoColor=white)](https://propertiesprofessor.com)
 
 ---
 
