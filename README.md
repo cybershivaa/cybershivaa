@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shivam%20Kumar&fontSize=50&fontAlign=50&fontAlignY=50&fontColor=00F7FF&animation=blinking)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff512f,100:dd2476&text=Shivam%20Kumar&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20)
 
 # Hi, I'm Shivam Kumar 👋
 
