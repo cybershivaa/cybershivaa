@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving\&height=250\&color=0:141e30,100:243b55\&text=Shivam%20Kumar\&fontSize=45\&fontAlignY=35\&fontColor=00F7FF\&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shivam%20Kumar&fontSize=50&fontAlign=50&fontAlignY=50&fontColor=00F7FF&animation=blinking)
 
 # Hi, I'm Shivam Kumar 👋
 
