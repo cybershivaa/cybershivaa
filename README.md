@@ -2,7 +2,7 @@
 
 # Hi, I'm Shivam Kumar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Building+Real+World+CRM+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Software+Engineer;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Building+Real+World+CRM+Systems)](https://git.io/typing-svg)
 
 ### 🚀 Full Stack Developer | React | Node.js | MongoDB
 
