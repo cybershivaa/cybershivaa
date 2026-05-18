@@ -65,17 +65,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<table border="0">
- <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=cybershivaa&show_icons=true&theme=radical" alt="Shivam's GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybershivaa&layout=compact&theme=radical" alt="Most Used Languages" /></td>
- </tr>
-</table>
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cybershivaa&theme=radical)
